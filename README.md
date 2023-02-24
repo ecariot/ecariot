@@ -2,6 +2,4 @@
 
 - 🌱 I’m currently studying at 42 Paris
 - 🤔 I’m looking for an internship as a software engineer
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ecariot=anuraghazra&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecariot)](https://github.com/anuraghazra/github-readme-stats)
