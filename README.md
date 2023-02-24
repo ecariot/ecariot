@@ -9,3 +9,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecariot&count_private=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecariota&hide_progress=true)](https://github.com/ecariot/github-readme-stats)
